@@ -40,10 +40,10 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ```mermaid
 flowchart TD
     Alert --> Triage --> Escalation --> Containment --> Eradication --> Recovery --> Lessons
-
+```
 ### Vulnerability Management Flow
 ```mermaid
 flowchart LR
     Scan --> Prioritize --> Remediate --> Validate --> Report
-
+```
 
