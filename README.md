@@ -33,7 +33,9 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 - Splunk detection queries
 - AWS GuardDuty automation scripts
 - Compliance audit dashboards
-
+----
+## 📜 License
+MIT License — free to use and adapt with attribution.
 
 ---
 
