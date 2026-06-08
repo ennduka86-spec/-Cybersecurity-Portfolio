@@ -36,7 +36,7 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ---
 
 ## 📊 Workflow Diagram (Mermaid)
-
+```
 ### Incident Response Lifecycle
 ```mermaid
 flowchart TD
