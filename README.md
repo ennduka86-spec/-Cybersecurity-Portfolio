@@ -29,3 +29,16 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ```mermaid
 flowchart TD
     Alert --> Triage --> Escalation --> Containment --> Eradication --> Recovery --> Lessons
+
+```
+📂 Repository Structure
+bash```
+/scripts
+    log_parser.py
+    vuln_validation.ps1
+/playbooks
+    mitre_attack_mapping.md
+/docs
+    incident_response_template.md
+    ```
+
