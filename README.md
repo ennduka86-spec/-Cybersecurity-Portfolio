@@ -35,7 +35,8 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 - Compliance audit dashboards
 ----
 ## 📜 License
-MIT License — free to use and adapt with attribution.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
