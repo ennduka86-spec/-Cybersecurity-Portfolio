@@ -10,7 +10,7 @@ Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c
 ---
 ```
 ##📂 Repository Structure
-code```
+```text
 /scripts
     log_parser.py
     vuln_validation.ps1
