@@ -41,5 +41,9 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 flowchart TD
     Alert --> Triage --> Escalation --> Containment --> Eradication --> Recovery --> Lessons
 
+### Vulnerability Management Flow
+```mermaid
+flowchart LR
+    Scan --> Prioritize --> Remediate --> Validate --> Report
 
 
