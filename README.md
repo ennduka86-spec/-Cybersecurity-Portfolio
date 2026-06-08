@@ -32,11 +32,10 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 - MITRE ATT&CK technique mapping for detection rules  
 - Cloud security posture checks (AWS GuardDuty, Azure Defender)  
 - Vulnerability remediation validation scripts  
-
----
+```
 
 ## 📊 Workflow Diagram (Mermaid)
-```
+
 ### Incident Response Lifecycle
 ```mermaid
 flowchart TD
