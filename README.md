@@ -1,2 +1,31 @@
 # -Cybersecurity-Portfolio
 Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, cloud security scripts, and incident response workflows.
+# SOC Automation Scripts
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](ca://s?q=Add_build_status_badge_to_GitHub_repo)
+[![Security Scan](https://img.shields.io/badge/security-snyk-blue)](ca://s?q=Add_security_scan_badge_to_GitHub_repo)
+[![License](https://img.shields.io/badge/license-MIT-yellow)](ca://s?q=Add_license_badge_to_GitHub_repo)
+[![Languages](https://img.shields.io/badge/languages-Python%20%7C%20PowerShell%20%7C%20Bash-orange)](ca://s?q=Add_programming_language_badge_to_GitHub_repo)
+
+---
+
+## 🔐 Overview
+This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
+Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**, **EDR (CrowdStrike)**, and **vulnerability management (Qualys, Nessus)**.
+
+---
+
+## ⚙️ Features
+- Automated log parsing for high‑volume SOC alerts  
+- MITRE ATT&CK technique mapping for detection rules  
+- Cloud security posture checks (AWS GuardDuty, Azure Defender)  
+- Vulnerability remediation validation scripts  
+
+---
+
+## 📊 Workflow Diagram (Mermaid)
+
+### Incident Response Lifecycle
+```mermaid
+flowchart TD
+    Alert --> Triage --> Escalation --> Containment --> Eradication --> Recovery --> Lessons
