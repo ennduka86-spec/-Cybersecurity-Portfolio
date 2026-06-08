@@ -1,5 +1,8 @@
 # -Cybersecurity-Portfolio
-Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, cloud security scripts, and incident response workflows.
+## 🔐 Overview
+This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
+Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**, **EDR (CrowdStrike)**, and **vulnerability management (Qualys, Nessus)**.
+
 # SOC Automation Scripts
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](ca://s?q=Add_build_status_badge_to_GitHub_repo)
@@ -21,9 +24,7 @@ Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c
     ```
 
 
-## 🔐 Overview
-This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
-Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**, **EDR (CrowdStrike)**, and **vulnerability management (Qualys, Nessus)**.
+
 
 ### 🚀 *Getting Started*
 ### Clone the repo
