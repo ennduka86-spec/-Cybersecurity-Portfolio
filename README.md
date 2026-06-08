@@ -23,9 +23,6 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
     incident_response_template.md
     ```
 
-
-
-
 ### 🚀 *Getting Started*
 ### Clone the repo
 - Install dependencies (pip install -r requirements.txt)
