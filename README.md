@@ -8,6 +8,18 @@ Cybersecurity portfolio showcasing SOC automation, threat detection playbooks, c
 [![Languages](https://img.shields.io/badge/languages-Python%20%7C%20PowerShell%20%7C%20Bash-orange)](ca://s?q=Add_programming_language_badge_to_GitHub_repo)
 
 ---
+```
+📂 Repository Structure
+bash```
+/scripts
+    log_parser.py
+    vuln_validation.ps1
+/playbooks
+    mitre_attack_mapping.md
+/docs
+    incident_response_template.md
+    ```
+
 
 ## 🔐 Overview
 This repository contains automation scripts and workflows for SOC operations, log parsing, and incident response.  
@@ -30,15 +42,5 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 flowchart TD
     Alert --> Triage --> Escalation --> Containment --> Eradication --> Recovery --> Lessons
 
-```
-📂 Repository Structure
-bash```
-/scripts
-    log_parser.py
-    vuln_validation.ps1
-/playbooks
-    mitre_attack_mapping.md
-/docs
-    incident_response_template.md
-    ```
+
 
