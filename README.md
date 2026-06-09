@@ -10,7 +10,7 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 [![License](https://img.shields.io/badge/license-MIT-yellow)](ca://s?q=Add_license_badge_to_GitHub_repo)
 [![Languages](https://img.shields.io/badge/languages-Python%20%7C%20PowerShell%20%7C%20Bash-orange)](ca://s?q=Add_programming_language_badge_to_GitHub_repo)
 
----
+
 ```
 ##📂 Repository Structure
 ```text
@@ -36,6 +36,7 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ----
 ## 📜 License
 MIT License — free to use and adapt with attribution.
+
 ```
 ## 🌐 Connect with Me
 
@@ -51,7 +52,7 @@ MIT License — free to use and adapt with attribution.
 - MITRE ATT&CK technique mapping for detection rules  
 - Cloud security posture checks (AWS GuardDuty, Azure Defender)  
 - Vulnerability remediation validation scripts  
-
+---
 ```
 
 ## 📊 Workflow Diagram (Mermaid)
