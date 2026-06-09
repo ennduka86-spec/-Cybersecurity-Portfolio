@@ -51,6 +51,7 @@ MIT License — free to use and adapt with attribution.
 - MITRE ATT&CK technique mapping for detection rules  
 - Cloud security posture checks (AWS GuardDuty, Azure Defender)  
 - Vulnerability remediation validation scripts  
+
 ```
 
 ## 📊 Workflow Diagram (Mermaid)
