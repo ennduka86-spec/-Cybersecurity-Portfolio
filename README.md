@@ -37,7 +37,6 @@ Aligned with my professional experience in **SIEM (Splunk, Microsoft Sentinel)**
 ## 📜 License
 MIT License — free to use and adapt with attribution.
 
-```
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ennduka86-spec)
@@ -45,14 +44,12 @@ MIT License — free to use and adapt with attribution.
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ennduka86@gmail.com)
 
 
----
-
 ## ⚙️ Features
 - Automated log parsing for high‑volume SOC alerts  
 - MITRE ATT&CK technique mapping for detection rules  
 - Cloud security posture checks (AWS GuardDuty, Azure Defender)  
 - Vulnerability remediation validation scripts  
----
+
 ```
 
 ## 📊 Workflow Diagram (Mermaid)
